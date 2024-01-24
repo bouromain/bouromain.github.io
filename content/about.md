@@ -23,7 +23,7 @@ I also really like to code and love doing data science, machine learning on neur
 
 
 <!-- My previous/current work mostly focussed on the following questions:
-- How our congnitive map adapts its resolution to the availability of sensory information in an environment? 
+- How our cognitive map adapts its resolution to the availability of sensory information in an environment? 
 - How the brain stores a high number of "maps" without mixing them
 
 In collaboration with others, I've also studied:
