@@ -1,0 +1,4 @@
+baseURL = 'https://www.romain.bourboulou.com/'
+languageCode = 'en-uk'
+theme = 'blowfish'
+title = 'Bourboulou Romain'
