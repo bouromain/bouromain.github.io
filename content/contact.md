@@ -8,7 +8,7 @@ authors:
 showAuthorsBadges : false 
 ---
 
-You can contact me in english and/or french here:
+You can contact me in English and/or French here:
 
 
 - [{{< icon "email" >}} Email]("mailto:say-hello@bourboulou.com")

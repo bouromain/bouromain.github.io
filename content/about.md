@@ -19,7 +19,7 @@ I am a neuroscientist currently working in UCL in the team of [Prof. Caswell Bar
 
 My research focuses on how information from the outside world influences our [cognitive map](https://en.wikipedia.org/wiki/Cognitive_map) in a region called the [hippocampus](http://www.scholarpedia.org/article/Hippocampus). For this I use a combination of methods (electrophysiology, calcium imaging...) to monitor neuronal activity while animals perform behavioural tasks in [Virtual Reality](https://www.youtube.com/watch?v=1DJOTEDBA2c).
 
-I also really like to code and love doing data science, machine learning on neural activity to better understand how information is encoded by neurons. You can find most of my code on [GitHub {{< icon "github" >}}](https://github.com/bouromain).
+Aside from recording neural activity, I developed various data cleaning and analysis pipelines, but also applied machine learning methods on neural activity to better understand the information they encode. You can find most of my code on [GitHub {{< icon "github" >}}](https://github.com/bouromain).
 
 
 <!-- My previous/current work mostly focussed on the following questions:
