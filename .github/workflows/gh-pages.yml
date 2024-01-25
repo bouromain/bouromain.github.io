@@ -24,9 +24,6 @@ jobs:
         with:
           hugo-version: "latest"
       
-      - name: cname
-        run: echo 'romain.bourboulou.com' > ./public/CNAME
-
       - name: Build
         run: hugo --minify
 
@@ -37,3 +34,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
+          run: echo 'romain.bourboulou.com' > ./public/CNAME
