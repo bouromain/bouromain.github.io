@@ -8,9 +8,7 @@ authors:
 showAuthorsBadges : false 
 ---
 
-
-
-You can drop me a line in english and/or french here:
+You can contact me in english and/or french here:
 
 
 - [{{< icon "email" >}} Email]("mailto:say-hello@bourboulou.com")

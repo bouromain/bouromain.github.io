@@ -14,10 +14,10 @@ showReadingTime : false
 showWordCount : false
 ---
 
-I am a neuroscientist currently working in UCL in the team of the [Prof. Caswell Barry](https://barry-lab.com/). I did my PhD [(and wrote a thesis)](https://www.theses.fr/en/2019AIXM0299) at the [Institut de Neurobiologie de la Méditerranée](https://www.inmed.fr/en) in the beautiful city of Marseille in the team of [Dr. Jérôme Epsztein](https://www.inmed.fr/en/neuronal-coding-of-space-and-memory).
+I am a neuroscientist currently working in UCL in the team of [Prof. Caswell Barry](https://barry-lab.com/). I did my PhD [(and wrote a thesis)](https://www.theses.fr/en/2019AIXM0299) at the [Institut de Neurobiologie de la Méditerranée](https://www.inmed.fr/en) in the beautiful city of Marseille in the team of [Dr. Jérôme Epsztein](https://www.inmed.fr/en/neuronal-coding-of-space-and-memory).
 
 
-My research focus on how information from the outside world influences our [cognitive map](https://en.wikipedia.org/wiki/Cognitive_map) in a region called the [hippocampus](http://www.scholarpedia.org/article/Hippocampus). For this I use a combination of methods (electrophysiology, calcium imaging...) to monitor neuronal activity while animal perform behavioural tasks in [Virtual Reality](https://www.youtube.com/watch?v=1DJOTEDBA2c).
+My research focuses on how information from the outside world influences our [cognitive map](https://en.wikipedia.org/wiki/Cognitive_map) in a region called the [hippocampus](http://www.scholarpedia.org/article/Hippocampus). For this I use a combination of methods (electrophysiology, calcium imaging...) to monitor neuronal activity while animals perform behavioural tasks in [Virtual Reality](https://www.youtube.com/watch?v=1DJOTEDBA2c).
 
 I also really like to code and love doing data science, machine learning on neural activity to better understand how information is encoded by neurons. You can find most of my code on [GitHub {{< icon "github" >}}](https://github.com/bouromain).
 
