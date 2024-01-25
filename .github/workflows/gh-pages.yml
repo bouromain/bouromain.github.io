@@ -28,7 +28,7 @@ jobs:
         run: hugo --minify
       
       - name: cname
-        run: echo 'romain.bourboulou.com' > static/CNAME
+        run: echo 'romain.bourboulou.com' > public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
