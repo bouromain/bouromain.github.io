@@ -23,6 +23,9 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
+      
+      - name: cname
+        run: echo 'romain.bourboulou.com' > ./public/CNAME
 
       - name: Build
         run: hugo --minify
